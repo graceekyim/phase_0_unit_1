@@ -1,1 +1,20 @@
-/* include your css here */
+header {
+	font-size: 80px; 
+	text-align: center;}
+
+body {
+	font-family: 'Candara' sans-serif; 
+	color: #0066FF; 
+	background: #eee;}
+
+img {
+	display: block; 
+	margin-left: auto; 
+	margin-right: auto;}
+
+.wrapper {
+	width: 700px; 
+	margin: 0 auto;}
+
+h1 {
+	ext-align: center;}
