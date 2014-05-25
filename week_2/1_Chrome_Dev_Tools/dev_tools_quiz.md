@@ -1,6 +1,6 @@
 #### Include an inline screenshot of your codeschool's points from the profile page:
 
-<img src="imgs/codeschool_points.jpeg" alt="Code School Points">
+<img src="imgs/codeschool_points.png" alt="Code School Points">
 
 ##QUIZ
 * Explain which tabs support the following actions and how.
