@@ -44,7 +44,6 @@ The quote is from an inline gif image. If you wanted to change the color of the 
 
   After opening the Dev Tools inspector, click on the "Network" tab. Make sure the cache is disabled and reload the page. You will see a list of all the files that are being downloaded. Sort the list by the column labeled "Size." Then scroll down until you find the largest image (jpeg, gif or png file). You will see the largest image is the following: http://www.ticketswizard.com/Images/Catalog/92624182-c482-4a35-8da2-4fbf2f502e94_Large_Large.png. It is 316 KB.
   
-
 * Test the www.ticketswizard.com website with google's [PageSpeed Insights](http://www.ticketswizard.com/).  (You can also download the chrome plugin).  What is the easiest thing to change to optimize the website?  How many kilobytes of data can be eliminated?
 
-The easiest thing to change would be to format and compress the images. You would eliminate 885.9 KB.  
+The easiest thing to change would be to format and compress the images. You would eliminate 885.9 KB. 
