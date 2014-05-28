@@ -1,23 +1,57 @@
-// I paired [by myself, with:] on this challenge.
+// I paired with Jennie Chamberlin on this challenge.
 
 // __________________________________________
 // Write your code below.
 
+//1.
+var secretNumber=1;
 
+//2.
+var secretNumber=7;
 
+//3.
+var password="string";
 
+//4.
+password = "just open the door";
 
+//5. 
+var allowedIn = true;
 
+//6. 
+var allowedIn = false;
+
+//7.
+var members = [1, 2, 3];
+
+//8.
+members[0] = "John";
+
+//9.
+members.push("Mary");
 
 
 // __________________________________________
 // Reflection: Use the reflection guidelines to write a reflection here. 
 // 
-// 
-// 
-// 
-// 
-// 
+// We initially had some trouble figuring out what solutions the tests were 
+// looking for but once we got started we found it easy to follow. 
+
+// We had some questions about declaring strings and booleans. We searched
+// on the web and found helpful info on stackoverflow and w3schoools. I also
+// referred to some notes I had from reading the JS Intro from DBC. We used 
+// some array methods in our code and it really helped solidify what I had 
+// learned. 
+
+// Occasionally, I confuse Ruby and JavaScript methods and properties. To make 
+// things even more confusing, I'm also finding myself mixing up Ruby and Java. 
+// I think this will be one of the hardest challenges I'll have to face when we 
+// start spending more time programming in Ruby. 
+
+// This challenge was especially helpful for me as I prepared for the group
+// project. Since I'm Person 1, I'm responsible for writing user stories and
+// I found this challenge helpful in determining what kind of information I
+// need to include in the user stories. 
 
 
 // __________________________________________
