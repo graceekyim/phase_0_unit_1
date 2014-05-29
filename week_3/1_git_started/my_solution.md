@@ -1,45 +1,44 @@
 ## Release 2: Basic Git Commands
 Define the following commands and describe how they work/what they do.  
 
-
 #### add
-<!-- Your defnition here -->
+This command moves a file into the staging area, indicating that it's ready to be committed. You cannot commit a file until you have added it to the staging area. 
 
 #### branch
-<!-- Your defnition here -->
+If you run "git branch", you will get a list of all your local branches. If you want to create a new branch from a master, you should run "git branch (branchname)".
 
 #### checkout
-<!-- Your defnition here -->
+This command allows you to look into a repository that you aren't currently in. 
 
 #### clone
-<!-- Your defnition here -->
+This command duplicates an existing repository. 
 
 #### commit
-<!-- Your defnition here -->
+This command takes files from your staging area and creates a snapshot that's saved, along with a commit message, and can be accessed later. The files must be added to the staging area before you can commit them. 
 
 #### fetch
-<!-- Your defnition here -->
+This command retrieves changes from another repository but will not merge the changes. 
 
 #### log
-<!-- Your defnition here -->
+This command shows a journal of all the changes you've committed so far.
 
 #### merge
-<!-- Your defnition here -->
+This command merges changes from two different branches, using their commits.
 
 #### pull
-<!-- Your defnition here -->
+This command retrieves changes from another repository and merges these changes. 
 
 #### push
-<!-- Your defnition here -->
+This command takes the commits from a repository and pushes the changes to the remote repository. 
 
 #### reset
-<!-- Your defnition here -->
+This command clears files from a staging area. 
 
 #### rm
-<!-- Your defnition here -->
+This command removes files from the working directory. 
 
 #### status
-
+This commands gives you the status of all the files you are tracking, showing if the files are edited, new, staged or deleted. 
 
 ## Release 4: Git Workflow
 
